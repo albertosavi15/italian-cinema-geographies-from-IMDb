@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Visualizzazione cronologica delle geografie del cinema italiano: heatmap Kepler.">
+  <title>Visualizzazione cronologica | Italian Cinema Geographies</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #10151d; color: #f1f4f8; }
+    main { max-width: 1100px; margin: 0 auto; padding: clamp(24px, 5vw, 64px) 20px; }
+    a { color: #a9d4ff; }
+    nav { margin-bottom: 42px; }
+    nav a { text-decoration: none; }
+    nav a:hover { text-decoration: underline; }
+    h1 { font-size: clamp(1.6rem, 4vw, 2.8rem); line-height: 1.2; margin: 0 0 14px; }
+    p { color: #bac5d2; line-height: 1.6; margin: 0 0 30px; }
+    video { display: block; width: 100%; height: auto; max-height: 78vh; background: #000; border-radius: 10px; }
+    footer { margin-top: 32px; font-size: .9rem; color: #bac5d2; }
+  </style>
+</head>
+<body>
+  <main>
+    <nav><a href="./index.html">← Torna alla mappa interattiva</a></nav>
+    <h1>Heatmap cronologica</h1>
+    <p>Heatmap cronologica con progressione temporale della distribuzione spaziale delle location associate ai film italiani sul territorio nazionale <em>(Fonte: elaborazione dell’autore su dati IMDb)</em></p>
+    <video controls playsinline preload="metadata" aria-label="Animazione cronologica heatmap">
+      <source src="./cronologico_heatmap_kepler.mp4" type="video/mp4">
+      Il browser non supporta la riproduzione video.
+    </video>
+    <footer>Italian Cinema Geographies · Alberto Savi</footer>
+  </main>
+</body>
+</html>
