@@ -1,0 +1,18 @@
+# Dataset originali e derivati: non pubblicare
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+
+# Output delle analisi
+*.html
+
+# File temporanei e locali
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
