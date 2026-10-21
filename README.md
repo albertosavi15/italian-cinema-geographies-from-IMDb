@@ -105,7 +105,7 @@ Questo repository accompagna la tesi di dottorato *Regionalità, localizzazione 
 **Autore:** Alberto Savi  
 **Istituzione:** Unimi e Unimore  
 **Anno:** 2026  
-**Tesi / DOI:** [collegamento da aggiungere quando disponibile]
+**Tesi / DOI:** [disponibile prossimamente]
 
 ## 9. Fonti e attribuzioni
 
@@ -216,7 +216,7 @@ This repository accompanies the doctoral thesis *Regionalità, localizzazione e 
 **Author:** Alberto Savi  
 **Institutions:** University of Milan (Unimi) and University of Modena and Reggio Emilia (Unimore)  
 **Year:** 2026  
-**Thesis / DOI:** [link to be added when available]
+**Thesis / DOI:** [available soon]
 
 ## 9. Sources and attribution
 
